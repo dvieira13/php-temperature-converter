@@ -1,11 +1,11 @@
-# Temperature Converter
+# PHP Temperature Converter
 
-Full-stack TypeScript project:
+Full-stack PHP project:
 - **Client**: React + Vite + TypeScript
-- **Server**: Node.js + Express + TypeScript + Jasmine tests
+- **Server**: PHP + PHPUnit tests
 
 **Instructions**
 - Clone the repo
 - 'npm i' from root
 - 'npm run dev' from root
-- 'npm test' to run backend jasmine tests
+- 'npm test' to run backend PHPUnit tests

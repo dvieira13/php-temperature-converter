@@ -1,8 +1,8 @@
 {
-  "name": "temperature-converter",
+  "name": "php-temperature-converter",
   "version": "1.0.0",
   "private": true,
-  "main": "index.js",
+  "main": "index.php",
   "workspaces": [
     "client",
     "server"
